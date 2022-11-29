@@ -1,0 +1,114 @@
+.first{
+  background:#9E2121;
+  width: 100%;
+   height: 3em;
+   color: white;
+   font-family: 'Lora';
+}
+nav, a{
+  text-decoration: none;
+  text-align: right;
+  color: white;
+}
+body{
+  margin: 0;
+  background-color: lightgrey;
+  position: relative;
+  grid-auto-rows: auto 1fr auto;
+}
+.header{
+  padding: 7em 0;
+  text-align: center;
+  letter-spacing: 0.2px;
+  margin-bottom: 1px;
+  margin-top: 3px;
+  background: url(../img/lamparas.jpg);
+  height: 30%;
+
+}
+nav, a{
+  text-decoration: none;
+  text-align: right;
+}
+.productos{
+  text-align: center;
+}
+.buscar{
+  text-align: right;
+  margin-right: 20%;
+  height: -10px;
+}
+.paragraph{
+  padding-right: 100px;
+  padding-left: 100px;
+
+margin-bottom: 3%;
+margin-right: 9%;
+margin-left: 9%;
+
+position: relative;
+  height: 85%;;
+  grid-auto-rows: auto 1fr auto;
+  display: block;
+  max-height: 85%;
+  overflow: auto;
+}
+.rojo{
+  height: 11%;
+  background-color: #9E2121;
+  position: absolute;
+  top: 90%;
+  width: 100%;
+  text-align: center;
+}
+div.gallery {
+
+ margin: 5px;
+ border: 1px solid #ccc;
+ float: left;
+ width: 280px;
+ border-radius: 5%;
+ background: #e9e9e9;
+ position: a;
+
+
+}
+div.gallery:hover {
+ border: 1px solid #777;
+ position: fixed;
+ position: static;
+}
+
+div.gallery img {
+ width: 100%;
+ height: auto;
+ border-radius: 5%;
+ position: static;
+}
+.desc {
+ padding: 5px;
+ text-align: center;
+ border-radius: 5%;
+ font-family: 'Lora';
+font-style: bold;
+position: static;
+
+}
+.nombre{
+background: #9E2121;
+border-radius: 100px;
+margin: 0px;
+height: 60px;
+height: 30px;
+font-family: 'Lora';
+font-style: bold;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+
+.contacto{
+  color: white;
+}

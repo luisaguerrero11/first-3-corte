@@ -1,0 +1,60 @@
+.first{
+  background:#9E2121;
+  width: 100%;
+   height: 3em;
+   color: white;
+   font-family: 'Lora';
+}
+nav, a{
+  text-decoration: none;
+  text-align: right;
+  color: white;
+}
+body{
+  margin: 0;
+  background-color: lightgrey;
+  position: relative;
+  grid-auto-rows: auto 1fr auto;
+}
+.header{
+  padding: 7em 0;
+  text-align: center;
+  letter-spacing: 0.2px;
+  margin-bottom: 1px;
+  margin-top: 3px;
+  background: url(../img/img5.jpg);
+  height: 30%;
+
+}
+
+.politicas{
+  text-align: center;
+    font-family: 'Lora';
+}
+.contenedor{
+
+margin-bottom: 3%;
+margin-right: 9%;
+margin-left: 9%;
+
+position: relative;
+  height: 85%;;
+  grid-auto-rows: auto 1fr auto;
+  display: block;
+  max-height: 85%;
+  overflow: auto;
+  background: #e9e9e9;
+}
+
+.contenedor a{
+  padding: 10px 10px 10px 10px;
+}
+
+.rojo{
+  height: 20%;
+  background-color: #9E2121;
+  position: absolute;
+  top: 105%;
+  width: 100%;
+  text-align: center;
+}

@@ -1,0 +1,142 @@
+.first{
+  background:#9E2121;
+  width: 100%;
+   height: 3em;
+   color: white;
+   font-family: 'Lora';
+}
+nav, a{
+  text-decoration: none;
+  text-align: right;
+  color: white;
+}
+body{
+  margin: 0;
+  background-color: lightgrey;
+  position: relative;
+  grid-auto-rows: auto 1fr auto;
+}
+.header{
+  padding: 7em 0;
+  text-align: center;
+  letter-spacing: 0.2px;
+  margin-bottom: 1px;
+  margin-top: 3px;
+  background: url(../img/lamparas.jpg);
+  height: 30%;
+
+}
+.titulos{
+  text-align: center;
+  margin-bottom: 60px;
+
+}
+
+
+.Rectangle14 {
+
+position: absolute;
+width: 100%;
+height: 100%;
+left: -6px;
+top: auto;
+
+background: #FFFFFF;}
+.una{
+  padding-top: 60px;
+padding-left: 60px;
+  position: absolute;
+  width: 20%;
+  height: 40%;
+
+}
+.producto1{
+    position: absolute;
+    width: 932px;
+    height: 100px;
+    left: 30%;
+    top: 30px;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 20px;
+    color: #9E2121
+}
+.texto1{
+  position: absolute;
+  width: 60%;
+  height: auto;
+  left: 30%;
+  top: 15%;
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: justify;
+  color: #000000;
+  }
+
+  .gris{
+     height: 10%;
+     background-color: lightgray;
+     position: absolute;
+     top: 60%;
+     width: 100%;
+  }
+
+  .Rectangle15 {
+
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: -6px;
+  top: 140%;
+
+  background: #FFFFFF;
+}
+  .dos{
+position: center;
+top: 10%;
+  padding-left: 60px;
+    position: absolute;
+    width: 20%;
+    height: 40%;
+
+  }
+  .productos-tendencia{
+      position: absolute;
+      width: 932px;
+      height: 100px;
+      left: 30%;
+      top: 30px;
+      font-family: 'Lora';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 40px;
+      line-height: 20px;
+      color: #9E2121
+  }
+  .texto2{
+    position: absolute;
+    width: 60%;
+    height: auto;
+    left: 30%;
+    top: 15%;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: justify;
+    color: #000000;
+    }
+    .rojo{
+      height: 30%;
+      background-color: #9E2121;
+      position: absolute;
+      top: 250%;
+      width: 100%;
+      text-align: center;
+    }
